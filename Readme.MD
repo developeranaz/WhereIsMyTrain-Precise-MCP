@@ -1,16 +1,3 @@
-# This mcp may not be available for long 
-cause this is using unofficial  api directly
-copy and use the below mcp fast
-```
-
-https://mcp-precise-whereismytrain.rerun-improve-mace.workers.dev/mcp
-```
-only show accurate station code. 
-the station name from station code not fixed
-
-actual code or apis are not for sale or i will not post it publicly because of security risk
-
-
 # Where Is My Train MCP
 
 > ⚠️ **This MCP may not be available for long.**
@@ -42,5 +29,8 @@ The actual API details and source code are not publicly shared due to security c
 This project is not intended to harm, disrupt, compete with, or negatively affect any popular or dominant train-tracking Android applications (you know the dominant one in India) or their services.
 
 By using this MCP, you acknowledge that you do so at your own risk.
+
+Sharing unofficial APIs is risky, so I avoided sharing them.
+
 
 
