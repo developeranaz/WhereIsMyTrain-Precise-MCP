@@ -11,6 +11,11 @@ Copy and use the MCP server below:
 https://mcp-precise-whereismytrain.rerun-improve-mace.workers.dev/mcp
 ```
 
+
+### Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/developeranaz/WhereIsMyTrain-Precise-MCP/refs/heads/main/images/SS/Screenshot_20260820-205843.Brave.png)
+
 ### Important
 
 * Only Shows **accurate station codes only**. No station name implemented yet
